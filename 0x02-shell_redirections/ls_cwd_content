@@ -1,1 +1,15 @@
-echo total 52 drwxr-xr-x 2 root root 280 Jul 10 18:39 . drwxr-xr-x 6 root root 104 Jul 10 16:02 .. -rwxr--r-- 1 root root 32 Jul 10 16:20 0-hello_world -rwxr--r-- 1 root root 28 Jul 10 16:34 1-confused_smiley -rwxr--r-- 1 root root 28 Jul 10 16:39 2-hellofile -rwxr--r-- 1 root root 40 Jul 10 16:49 3-twofiles -rwxr--r-- 1 root root 30 Jul 10 16:54 4-lastlines -rwxr--r-- 1 root root 30 Jul 10 16:57 5-firstlines -rwxr--r-- 1 root root 36 Jul 10 17:08 6-third_line -rwxr--r-- 1 root root 94 Jul 10 18:25 7-file -rwxr--r-- 1 root root 50 Jul 10 18:39 8-cwd_state -rw-r--r-- 1 root root 14 Jul 10 18:26 \*\\"Best School\"\\\\\*$\?\*\*\*\*\*:) -rw-r--r-- 1 root root 801 Jul 10 17:01 iacta -rw-r--r-- 1 root root 9 Jul 10 18:34 ls_cwd_content -rw-r--r-- 1 root root 21 Jul 10 16:03 README.md
+echo echo total 48
+drwxr-xr-x 2 root root 258 Jul 10 18:45 .
+drwxr-xr-x 6 root root 104 Jul 10 16:02 ..
+-rwxr--r-- 1 root root  32 Jul 10 16:20 0-hello_world
+-rwxr--r-- 1 root root  28 Jul 10 16:34 1-confused_smiley
+-rwxr--r-- 1 root root  28 Jul 10 16:39 2-hellofile
+-rwxr--r-- 1 root root  40 Jul 10 16:49 3-twofiles
+-rwxr--r-- 1 root root  30 Jul 10 16:54 4-lastlines
+-rwxr--r-- 1 root root  30 Jul 10 16:57 5-firstlines
+-rwxr--r-- 1 root root  36 Jul 10 17:08 6-third_line
+-rwxr--r-- 1 root root  94 Jul 10 18:25 7-file
+-rwxr--r-- 1 root root  58 Jul 10 18:45 8-cwd_state
+-rw-r--r-- 1 root root  14 Jul 10 18:26 \*\\"Best School\"\\\\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root 801 Jul 10 17:01 iacta
+-rw-r--r-- 1 root root  21 Jul 10 16:03 README.md
